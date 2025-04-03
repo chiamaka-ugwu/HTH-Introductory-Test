@@ -16,7 +16,7 @@ This is a simple introductory web page built using HTML, CSS, and Tailwind CSS.
 [View Live Site](https://hth-introductory-test.vercel.app/)
 
 ## Usage
-- In the gallery section, clicking on a name will change its color, background and text.
+- In the gallery section, clicking on a name will change its color, background and name.
 
 ## Author
 Developed by [Chiamaka Ugwu]
